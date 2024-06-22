@@ -509,21 +509,7 @@ button{
   margin-top:4px;
   text-align:center;
 }
-/* nav media query */
 
-@media (max-width: 500px) {
-  nav ul {
-    display: block; /* Stack list items vertically */
-    margin: 10px 0; /* Adjust vertical spacing */
-  }
 
-  nav ul li {
-    display: block;
-    margin: 10px 0; /* Adjust vertical spacing */
-  }
 
-  .logo {
-    width: 80px; /* Reduce logo size for smaller screens */
-  }
-}
 
